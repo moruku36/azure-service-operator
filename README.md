@@ -1,3 +1,11 @@
+# Azure Service Operator
+
+[English](README.md) | [日本語](README.ja.md)
+
+A Kubernetes operator for provisioning Azure resources and connecting applications to them through Kubernetes resource definitions.
+
+---
+
 # Azure Service Operator (for Kubernetes)
 [![Go Report Card](https://goreportcard.com/badge/github.com/Azure/azure-service-operator)](https://goreportcard.com/report/github.com/Azure/azure-service-operator)
 [![Build Status](https://dev.azure.com/azure/azure-service-operator/_apis/build/status/Azure.azure-service-operator?branchName=main)](https://dev.azure.com/azure/azure-service-operator/_build/latest?definitionId=36&branchName=main)
